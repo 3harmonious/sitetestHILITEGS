@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/3harmonious/sitetestHILITEGS/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/3harmonious/sitetestHILITEGS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Сайт создание И!: публикация на хостинг.</title>
+	<link rel="icon"  href="logotips.png">
+	<link rel="stylesheet" href="style-indexandother.css">
+</head>
+<body>
+<center><h1>ОРВИ И ГРИПП!!!</h1>
+<div class="orvi">
+<font color="white"><p>Симптомы при ОРВИ:</p></font></center>
+<left>
+	<p>•першение и боль в горле, его покраснение и кашель;</p>
+	<p>• слезоточивость, боль в глазах;</p>
+	<p>•общая слабость, недомогание;</p>
+	<p>•увеличение лимфатических узлов;</p>
+	<p>•отсутствие аппетита;</p>
+	<p>•бессонница;</p>
+	<p>•головная боль;</p>
+	<p>•ломота в суставах;</p>
+	<p>•повышенная потливость;</p>
+	<p>•озноб.</p>
+</left>
+</div>
+<a href=""><button style=”width: 15001px;”>Перейдём на 2 страницу???</button></a>
+<style> 
+	div {
+ 	background-color: blue;
+ }</style>
+</body>
+</html>
