@@ -22,7 +22,7 @@
 	<p>•озноб.</p>
 </left>
 </div>
-<a href=""><button style=”width: 15001px;”>Перейдём на 2 страницу???</button></a>
+<a href="https://3harmonious.github.io/sitetestHILITEGS/indexr.html"><button style=”width: 15001px;”>Перейдём на 2 страницу???</button></a>
 <style> 
 	div {
  	background-color: blue;
